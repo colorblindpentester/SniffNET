@@ -1,4 +1,4 @@
-![Python3](https://img.shields.io/badge/Python-3-green.svg?style=flat-square)]
+![Python3](https://img.shields.io/badge/Python-3-green.svg?style=flat-square)
 
 # SniffNET
 
