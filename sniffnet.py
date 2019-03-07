@@ -59,7 +59,7 @@ if attack=="5":
     os.system("clear")
     print(logo)
     ngrokport = input(" Enter port for ngrok (if need): ")
-    os.system("ngrok http %s" %s ngrokport)
+    os.system("ngrok http %s" % ngrokport)
 if attack=="6":
     os.system("clear")
     print(logo)
