@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import os
-import shodan
 import time
 import sys
 class color:
